@@ -1,0 +1,91 @@
+Image: ./10
+  Format: BMP3 (Microsoft Windows bitmap image (V3))
+  Class: DirectClass
+  Geometry: 1280x1024+0+0
+  Units: PixelsPerCentimeter
+  Type: TrueColorAlpha
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+    alpha: 8-bit
+  Channel statistics:
+    Pixels: 1310720
+    Red:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 125.944 (0.493897)
+      standard deviation: 103.879 (0.40737)
+      kurtosis: -1.69636
+      skewness: 0.232711
+      entropy: 0.648626
+    Green:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 114.349 (0.448429)
+      standard deviation: 112.779 (0.44227)
+      kurtosis: -1.79953
+      skewness: 0.319154
+      entropy: 0.596855
+    Blue:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 109.642 (0.42997)
+      standard deviation: 117.717 (0.461636)
+      kurtosis: -1.83213
+      skewness: 0.32554
+      entropy: 0.548248
+    Alpha:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 24.8147 (0.0973125)
+      standard deviation: 74.6864 (0.292888)
+      kurtosis: 5.47703
+      skewness: -2.72447
+      entropy: 0.0758436
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 145.03 (0.568746)
+      standard deviation: 103.616 (0.406339)
+      kurtosis: -1.27892
+      skewness: -0.265785
+      entropy: 0.467393
+  Alpha: none   #00000000
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgba(223,223,223,1)
+  Matte color: grey74
+  Transparent color: none
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x1024+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: None
+  Orientation: Undefined
+  Properties:
+    date:create: 2018-04-03T12:22:32+00:00
+    date:modify: 2018-04-03T12:22:32+00:00
+    signature: f01b6062da5e917816be010b858bda11dca70d87ebf50e8f47203a4b8ff48edb
+  Artifacts:
+    filename: ./10
+    verbose: true
+  Tainted: False
+  Filesize: 5.243MB
+  Number pixels: 1.311M
+  Pixels per second: 13.11MB
+  User time: 0.070u
+  Elapsed time: 0:01.100
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org

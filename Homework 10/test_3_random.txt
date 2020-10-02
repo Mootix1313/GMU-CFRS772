@@ -1,0 +1,13 @@
+-------------------- HW10:  rgully4's File Matching Script --------------------
+[\] 15 files tested. Results: 
+
+[\] 0 screenshots detected. 
+
+[\] 0 process monitors detected. 
+
+[\] 6 key logs detected. 
+
+	 ['E:\\GMU DFCA\\CFRS 772\\Lectures\\Week 11 - Malware (keylogger)\\Lab\\keylogger_with_clipboard_sample.txt', 'E:\\GMU DFCA\\CFRS 772\\Lectures\\Week 11 - Malware (keylogger)\\Lab\\lab10_example.py', 'E:\\GMU DFCA\\CFRS 772\\Lectures\\Week 11 - Malware (keylogger)\\Lab\\keylog_output_20180403_1900.txt', 'E:\\GMU DFCA\\CFRS 772\\Lectures\\Week 11 - Malware (keylogger)\\Lab\\keylog_output_20180403_1800.txt', 'E:\\GMU DFCA\\CFRS 772\\Lectures\\Week 11 - Malware (keylogger)\\Lab\\logger_fixed.pyw', 'E:\\GMU DFCA\\CFRS 772\\Lectures\\Week 11 - Malware (keylogger)\\Lab\\keylog_output_20190407_1700.txt']
+
+[\] 9 of everything else... 
+

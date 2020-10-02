@@ -1,0 +1,91 @@
+Image: ./11
+  Format: BMP3 (Microsoft Windows bitmap image (V3))
+  Class: DirectClass
+  Geometry: 1280x1024+0+0
+  Units: PixelsPerCentimeter
+  Type: TrueColorAlpha
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+    alpha: 1-bit
+  Channel statistics:
+    Pixels: 1310720
+    Red:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 225.147 (0.88293)
+      standard deviation: 46.9151 (0.183981)
+      kurtosis: 6.51603
+      skewness: -2.38719
+      entropy: 0.463684
+    Green:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 225.466 (0.884182)
+      standard deviation: 46.3972 (0.18195)
+      kurtosis: 6.78686
+      skewness: -2.42215
+      entropy: 0.469402
+    Blue:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 226.085 (0.886608)
+      standard deviation: 46.5631 (0.1826)
+      kurtosis: 7.29084
+      skewness: -2.52078
+      entropy: 0.468261
+    Alpha:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 167.758 (0.657874)
+      standard deviation: 120.978 (0.474422)
+      kurtosis: -1.55706
+      skewness: 0.665541
+      entropy: 0.115937
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 190.985 (0.748962)
+      standard deviation: 72.7279 (0.285208)
+      kurtosis: 5.66017
+      skewness: -2.8825
+      entropy: 0.379321
+  Alpha: srgba(128,128,128,0)   #80808000
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgba(223,223,223,1)
+  Matte color: grey74
+  Transparent color: none
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1280x1024+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: None
+  Orientation: Undefined
+  Properties:
+    date:create: 2018-04-03T13:02:30+00:00
+    date:modify: 2018-04-03T13:02:30+00:00
+    signature: 86b60d90709f821115a515fa03077686095a6282122658543efa9ddacfca6c39
+  Artifacts:
+    filename: ./11
+    verbose: true
+  Tainted: False
+  Filesize: 5.243MB
+  Number pixels: 1.311M
+  Pixels per second: 21.85MB
+  User time: 0.060u
+  Elapsed time: 0:01.059
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org

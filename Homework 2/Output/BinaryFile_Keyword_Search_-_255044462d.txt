@@ -1,0 +1,3 @@
+File searched: HW2.pdf
+Keyword provided: b'%PDF-'
+1 occurances found at offsets: [0]

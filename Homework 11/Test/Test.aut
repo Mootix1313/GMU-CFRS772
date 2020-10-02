@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>4.0</SchemaVersion>
+  <CreatedDate>2019/04/12 03:08:14 (GMT)</CreatedDate>
+  <ModifiedDate>2019/04/12 03:08:15 (GMT)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.10.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.10.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>test_20190412_030814</Name>
+    <DisplayName>Test</DisplayName>
+    <Number>Test</Number>
+    <Examiner>Rachel G</Examiner>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+</AutopsyCase>

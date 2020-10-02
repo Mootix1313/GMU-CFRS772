@@ -1,0 +1,3 @@
+File searched: .\Test Files\sample_partial.txt
+Keyword provided: Python
+5 occurances found at offsets: [17, 57, 265, 297, 842]

@@ -1,0 +1,3 @@
+File searched: .\Test Files\sample_binary.jpg
+Keyword provided: b'\xff\xff\xff'
+No occurances of 'b'\xff\xff\xff'' found in .\Test Files\sample_binary.jpg

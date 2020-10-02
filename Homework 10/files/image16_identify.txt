@@ -1,0 +1,108 @@
+Image: ./16
+  Format: BMP3 (Microsoft Windows bitmap image (V3))
+  Class: PseudoClass
+  Geometry: 134x38+0+0
+  Resolution: 37.9x37.8
+  Print size: 3.53562x1.00529
+  Units: PixelsPerCentimeter
+  Type: Palette
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 4/8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 5092
+    Red:
+      min: 0 (0)
+      max: 15 (1)
+      mean: 13.523 (0.901533)
+      standard deviation: 3.43787 (0.229192)
+      kurtosis: 5.04736
+      skewness: -2.36927
+      entropy: 0.437507
+    Green:
+      min: 0 (0)
+      max: 15 (1)
+      mean: 13.2765 (0.885101)
+      standard deviation: 4.07224 (0.271482)
+      kurtosis: 4.34951
+      skewness: -2.34364
+      entropy: 0.460041
+    Blue:
+      min: 0 (0)
+      max: 15 (1)
+      mean: 13.2985 (0.886568)
+      standard deviation: 4.02028 (0.268019)
+      kurtosis: 4.45068
+      skewness: -2.35488
+      entropy: 0.458989
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 15 (1)
+      mean: 13.366 (0.891067)
+      standard deviation: 3.85421 (0.256947)
+      kurtosis: 4.75233
+      skewness: -2.38532
+      entropy: 0.452179
+  Colors: 6
+  Histogram:
+       144: (  0,  0,  0) #000000 black
+       153: (127,  0,  0) #7F0000 srgb(127,0,0)
+        15: (127,  0,127) #7F007F srgb(127,0,127)
+       492: (127,127,127) #7F7F7F grey50
+       104: (191,191,191) #BFBFBF grey75
+      4184: (255,255,255) #FFFFFF white
+  Colormap entries: 16
+  Colormap:
+         0: (255,255,255) #FFFFFF white
+         1: (255,255,  0) #FFFF00 yellow
+         2: (255,  0,255) #FF00FF magenta
+         3: (255,  0,  0) #FF0000 red
+         4: (191,191,191) #BFBFBF grey75
+         5: (127,127,127) #7F7F7F grey50
+         6: (127,127,  0) #7F7F00 srgb(127,127,0)
+         7: (127,  0,127) #7F007F srgb(127,0,127)
+         8: (127,  0,  0) #7F0000 srgb(127,0,0)
+         9: (  0,255,255) #00FFFF cyan
+        10: (  0,255,  0) #00FF00 lime
+        11: (  0,127,127) #007F7F srgb(0,127,127)
+        12: (  0,127,  0) #007F00 srgb(0,127,0)
+        13: (  0,  0,255) #0000FF blue
+        14: (  0,  0,127) #00007F srgb(0,0,127)
+        15: (  0,  0,  0) #000000 black
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 134x38+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: None
+  Orientation: Undefined
+  Properties:
+    date:create: 2009-06-10T17:29:30+00:00
+    date:modify: 2009-06-10T17:29:30+00:00
+    signature: 134f51bce218fc1ef44ba10405b3f0dce69cca12933add2a52d9f0623ef1abea
+  Artifacts:
+    filename: ./16
+    verbose: true
+  Tainted: False
+  Filesize: 2.7KB
+  Number pixels: 5.09K
+  User time: 0.000u
+  Elapsed time: 0:01.000
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org

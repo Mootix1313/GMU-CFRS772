@@ -1,0 +1,2 @@
+Filename: sample_binary.jpg
+SearchTerm: a;lsdkfj

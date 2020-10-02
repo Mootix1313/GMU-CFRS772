@@ -1,0 +1,17 @@
+-------------------- HW10:  rgully4's File Matching Script --------------------
+[\] 32 files tested. Results: 
+
+[\] 5 screenshots detected. 
+
+	 ['./files\\9.bmp', './files\\10.bmp', './files\\11.bmp', './files\\12.bmp', './files\\13.bmp']
+
+[\] 1 process monitors detected. 
+
+	 ['./files\\7.proc_mon']
+
+[\] 3 key logs detected. 
+
+	 ['./files\\3.keylogger', './files\\keylog_1.txt', './files\\keylog_2.txt']
+
+[\] 23 of everything else... 
+

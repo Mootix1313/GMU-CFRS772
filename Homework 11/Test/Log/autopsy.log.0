@@ -1,0 +1,538 @@
+2019-04-12 03:08:15.834 org.sleuthkit.autopsy.keywordsearch.Server isRunning
+INFO: Solr server is running
+2019-04-12 03:08:16.169 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened Test (test_20190412_030814) in E:\GMU DFCA\CFRS 772\Projects\Homework 11\Test as the current case
+2019-04-12 03:08:16.276 org.sleuthkit.autopsy.imagegallery.PerCaseProperties getConfigSetting
+INFO: File did not exist. Created file [Image Gallery.properties]
+2019-04-12 03:08:16.283 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.7.8 loaded in native mode
+2019-04-12 03:08:16.319 org.sleuthkit.autopsy.ingest.IngestMonitor$MonitorTimerAction logMonitoredRootDirectory
+INFO: Monitoring disk space of E:\
+2019-04-12 03:08:16.361 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Correlation Engine, version = 4.10.0
+2019-04-12 03:08:16.361 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.10.0
+2019-04-12 03:08:16.361 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.10.0
+2019-04-12 03:08:16.361 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.10.0
+2019-04-12 03:08:16.361 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Exif Parser, version = 4.10.0
+2019-04-12 03:08:16.361 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.10.0
+2019-04-12 03:08:16.361 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.10.0
+2019-04-12 03:08:16.361 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.10.0
+2019-04-12 03:08:16.362 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.10.0
+2019-04-12 03:08:16.362 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2019-04-12 03:08:16.362 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.10.0
+2019-04-12 03:08:16.362 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.10.0
+2019-04-12 03:08:16.362 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.10.0
+2019-04-12 03:08:16.362 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.10.0
+2019-04-12 03:08:17.161 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.10.0
+2019-04-12 03:08:17.162 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Sample file ingest Module, version = 1.0
+2019-04-12 03:08:17.162 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and Round File Finder, version = 1.0
+2019-04-12 03:08:17.162 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and round file finder #2, version = 1.1
+2019-04-12 03:08:17.162 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = HW11 Contacts DB Analyzer, version = 1.0
+2019-04-12 03:08:17.163 org.sleuthkit.autopsy.ingest.IngestJobSettings load
+WARNING: Previously loaded Big and round finle finder module could not be found.
+2019-04-12 03:08:50.957 org.sleuthkit.autopsy.ingest.DataSourceIngestJob start
+INFO: Starting first stage analysis for LogicalFileSet1 (jobId=3)
+2019-04-12 03:08:50.957 org.sleuthkit.autopsy.ingest.DataSourceIngestJob startFirstStage
+INFO: Scheduling first stage data source level analysis tasks for LogicalFileSet1 (jobId=3), no file level analysis configured
+2019-04-12 03:08:50.957 org.sleuthkit.autopsy.ingest.IngestManager startIngestJob
+INFO: Ingest job 3 started
+2019-04-12 03:08:50.958 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: HW11 Contacts DB Analyzer analysis of LogicalFileSet1 (jobId=1) starting
+2019-04-12 03:08:50.971 HW11ContactsDbIngestModule process
+INFO: Processing file: contacts.db
+2019-04-12 03:08:51.058 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: HW11 Contacts DB Analyzer analysis of LogicalFileSet1 (jobId=1) finished
+2019-04-12 03:08:51.058 org.sleuthkit.autopsy.ingest.DataSourceIngestJob finishFirstStage
+INFO: Finished first stage analysis for LogicalFileSet1 (jobId=3)
+2019-04-12 03:08:51.059 org.sleuthkit.autopsy.ingest.DataSourceIngestJob finish
+INFO: Finished analysis for LogicalFileSet1 (jobId=3)
+2019-04-12 03:08:51.066 org.sleuthkit.autopsy.ingest.IngestManager finishIngestJob
+INFO: Ingest job 3 completed
+2019-04-12 03:09:03.446 org.sleuthkit.autopsy.contentviewers.FileViewer isSupported
+INFO: Mimetype not known for file: contacts.db
+2019-04-12 03:25:40.171 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Correlation Engine, version = 4.10.0
+2019-04-12 03:25:40.171 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.10.0
+2019-04-12 03:25:40.171 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.10.0
+2019-04-12 03:25:40.171 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.10.0
+2019-04-12 03:25:40.172 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Exif Parser, version = 4.10.0
+2019-04-12 03:25:40.172 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.10.0
+2019-04-12 03:25:40.172 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.10.0
+2019-04-12 03:25:40.172 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.10.0
+2019-04-12 03:25:40.172 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.10.0
+2019-04-12 03:25:40.172 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2019-04-12 03:25:40.173 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.10.0
+2019-04-12 03:25:40.173 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.10.0
+2019-04-12 03:25:40.173 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.10.0
+2019-04-12 03:25:40.173 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.10.0
+2019-04-12 03:25:41.048 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.10.0
+2019-04-12 03:25:41.048 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Sample file ingest Module, version = 1.0
+2019-04-12 03:25:41.048 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and Round File Finder, version = 1.0
+2019-04-12 03:25:41.048 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and round file finder #2, version = 1.1
+2019-04-12 03:25:41.048 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = HW11 Contacts DB Analyzer, version = 1.0
+2019-04-12 03:25:41.048 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Run EXE Module, version = 1.0
+2019-04-12 03:25:54.608 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Correlation Engine, version = 4.10.0
+2019-04-12 03:25:54.608 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.10.0
+2019-04-12 03:25:54.609 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.10.0
+2019-04-12 03:25:54.609 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.10.0
+2019-04-12 03:25:54.609 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Exif Parser, version = 4.10.0
+2019-04-12 03:25:54.609 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.10.0
+2019-04-12 03:25:54.609 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.10.0
+2019-04-12 03:25:54.609 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.10.0
+2019-04-12 03:25:54.609 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.10.0
+2019-04-12 03:25:54.609 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2019-04-12 03:25:54.609 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.10.0
+2019-04-12 03:25:54.609 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.10.0
+2019-04-12 03:25:54.609 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.10.0
+2019-04-12 03:25:54.609 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.10.0
+2019-04-12 03:25:55.224 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.10.0
+2019-04-12 03:25:55.224 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Sample file ingest Module, version = 1.0
+2019-04-12 03:25:55.224 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and Round File Finder, version = 1.0
+2019-04-12 03:25:55.225 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and round file finder #2, version = 1.1
+2019-04-12 03:25:55.225 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = HW11 Contacts DB Analyzer, version = 1.0
+2019-04-12 03:25:55.225 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Run EXE Module, version = 1.0
+2019-04-12 03:26:01.209 org.sleuthkit.autopsy.ingest.IngestManager startIngestJob
+SEVERE: Error starting Run EXE Module ingest module for job 4
+org.sleuthkit.autopsy.ingest.IngestModule$IngestModuleException: EXE was not found in module folder
+	sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	java.lang.reflect.Constructor.newInstance(Unknown Source)
+	org.python.core.PyReflectedConstructor.constructProxy(PyReflectedConstructor.java:211)
+	org.python.core.PyReflectedConstructor.__call__(PyReflectedConstructor.java:180)
+	org.python.core.PyObject.__call__(PyObject.java:419)
+	org.python.core.PyMethod.instancemethod___call__(PyMethod.java:237)
+	org.python.core.PyMethod.__call__(PyMethod.java:228)
+	org.python.core.PyMethod.__call__(PyMethod.java:223)
+	org.python.core.Deriveds.dispatch__init__(Deriveds.java:19)
+	org.python.core.PyObjectDerived.dispatch__init__(PyObjectDerived.java:1112)
+	org.python.core.PyType.type___call__(PyType.java:1713)
+	org.python.core.PyType.__call__(PyType.java:1696)
+	org.python.core.PyObject.__call__(PyObject.java:461)
+	org.python.core.PyObject.__call__(PyObject.java:465)
+	hw11_run_exe$py.startUp$10(C:\Users\rache\AppData\Roaming\autopsy\python_modules\CFRS 772\hw11_run_exe.py:94)
+	hw11_run_exe$py.call_function(C:\Users\rache\AppData\Roaming\autopsy\python_modules\CFRS 772\hw11_run_exe.py)
+	org.python.core.PyTableCode.call(PyTableCode.java:167)
+	org.python.core.PyBaseCode.call(PyBaseCode.java:307)
+	org.python.core.PyBaseCode.call(PyBaseCode.java:198)
+	org.python.core.PyFunction.__call__(PyFunction.java:482)
+	org.python.core.PyMethod.instancemethod___call__(PyMethod.java:237)
+	org.python.core.PyMethod.__call__(PyMethod.java:228)
+	org.python.core.PyMethod.__call__(PyMethod.java:218)
+	org.python.core.PyMethod.__call__(PyMethod.java:213)
+	org.python.core.PyObject._jcallexc(PyObject.java:3626)
+	org.python.proxies.hw11_run_exe$RunExeIngestModule$85.startUp(Unknown Source)
+	org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$PipelineModule.startUp(DataSourceIngestPipeline.java:200)
+	org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline.startUp(DataSourceIngestPipeline.java:83)
+	org.sleuthkit.autopsy.ingest.DataSourceIngestJob.startUpIngestPipelines(DataSourceIngestJob.java:449)
+	org.sleuthkit.autopsy.ingest.DataSourceIngestJob.start(DataSourceIngestJob.java:419)
+	org.sleuthkit.autopsy.ingest.IngestJob.start(IngestJob.java:158)
+	org.sleuthkit.autopsy.ingest.IngestManager.startIngestJob(IngestManager.java:406)
+	org.sleuthkit.autopsy.ingest.IngestManager.access$600(IngestManager.java:111)
+	org.sleuthkit.autopsy.ingest.IngestManager$StartIngestJobTask.call(IngestManager.java:849)
+	org.sleuthkit.autopsy.ingest.IngestManager$StartIngestJobTask.call(IngestManager.java:812)
+	java.util.concurrent.FutureTask.run(Unknown Source)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	java.lang.Thread.run(Unknown Source)
+2019-04-12 03:26:01.21 org.sleuthkit.autopsy.ingest.IngestManager startIngestJob
+SEVERE: Ingest job 4 could not be started
+2019-04-12 03:26:39.306 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Correlation Engine, version = 4.10.0
+2019-04-12 03:26:39.306 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.10.0
+2019-04-12 03:26:39.307 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.10.0
+2019-04-12 03:26:39.307 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.10.0
+2019-04-12 03:26:39.308 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Exif Parser, version = 4.10.0
+2019-04-12 03:26:39.308 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.10.0
+2019-04-12 03:26:39.308 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.10.0
+2019-04-12 03:26:39.308 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.10.0
+2019-04-12 03:26:39.309 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.10.0
+2019-04-12 03:26:39.309 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2019-04-12 03:26:39.309 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.10.0
+2019-04-12 03:26:39.309 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.10.0
+2019-04-12 03:26:39.309 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.10.0
+2019-04-12 03:26:39.309 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.10.0
+2019-04-12 03:26:40.03 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.10.0
+2019-04-12 03:26:40.031 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Sample file ingest Module, version = 1.0
+2019-04-12 03:26:40.031 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and Round File Finder, version = 1.0
+2019-04-12 03:26:40.031 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and round file finder #2, version = 1.1
+2019-04-12 03:26:40.031 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = HW11 Contacts DB Analyzer, version = 1.0
+2019-04-12 03:26:40.031 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Run EXE Module, version = 1.0
+2019-04-12 03:26:43.423 org.sleuthkit.autopsy.ingest.DataSourceIngestJob start
+INFO: Starting first stage analysis for LogicalFileSet1 (jobId=5)
+2019-04-12 03:26:43.423 org.sleuthkit.autopsy.ingest.DataSourceIngestJob startFirstStage
+INFO: Scheduling first stage data source level analysis tasks for LogicalFileSet1 (jobId=5), no file level analysis configured
+2019-04-12 03:26:43.423 org.sleuthkit.autopsy.ingest.IngestManager startIngestJob
+INFO: Ingest job 5 started
+2019-04-12 03:26:43.425 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Run EXE Module analysis of LogicalFileSet1 (jobId=1) starting
+2019-04-12 03:26:43.574 RunExeIngestModule process
+INFO: Ignoring data source.  Not an image
+2019-04-12 03:26:43.575 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Run EXE Module analysis of LogicalFileSet1 (jobId=1) finished
+2019-04-12 03:26:43.575 org.sleuthkit.autopsy.ingest.DataSourceIngestJob finishFirstStage
+INFO: Finished first stage analysis for LogicalFileSet1 (jobId=5)
+2019-04-12 03:26:43.575 org.sleuthkit.autopsy.ingest.DataSourceIngestJob finish
+INFO: Finished analysis for LogicalFileSet1 (jobId=5)
+2019-04-12 03:26:43.584 org.sleuthkit.autopsy.ingest.IngestManager finishIngestJob
+INFO: Ingest job 5 completed
+2019-04-12 03:33:00.714 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Correlation Engine, version = 4.10.0
+2019-04-12 03:33:00.714 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.10.0
+2019-04-12 03:33:00.714 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.10.0
+2019-04-12 03:33:00.714 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.10.0
+2019-04-12 03:33:00.714 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Exif Parser, version = 4.10.0
+2019-04-12 03:33:00.715 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.10.0
+2019-04-12 03:33:00.715 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.10.0
+2019-04-12 03:33:00.715 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.10.0
+2019-04-12 03:33:00.715 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.10.0
+2019-04-12 03:33:00.715 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2019-04-12 03:33:00.715 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.10.0
+2019-04-12 03:33:00.715 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.10.0
+2019-04-12 03:33:00.715 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.10.0
+2019-04-12 03:33:00.715 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.10.0
+2019-04-12 03:33:01.501 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.10.0
+2019-04-12 03:33:01.501 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Sample file ingest Module, version = 1.0
+2019-04-12 03:33:01.502 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and Round File Finder, version = 1.0
+2019-04-12 03:33:01.502 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and round file finder #2, version = 1.1
+2019-04-12 03:33:01.502 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = HW11 Contacts DB Analyzer, version = 1.0
+2019-04-12 03:33:01.502 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Run EXE Module, version = 1.0
+2019-04-12 03:33:14.229 org.sleuthkit.autopsy.ingest.DataSourceIngestJob start
+INFO: Starting first stage analysis for LogicalFileSet2 (jobId=6)
+2019-04-12 03:33:14.229 org.sleuthkit.autopsy.ingest.DataSourceIngestJob startFirstStage
+INFO: Scheduling first stage data source level analysis tasks for LogicalFileSet2 (jobId=6), no file level analysis configured
+2019-04-12 03:33:14.229 org.sleuthkit.autopsy.ingest.IngestManager startIngestJob
+INFO: Ingest job 6 started
+2019-04-12 03:33:14.23 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: HW11 Contacts DB Analyzer analysis of LogicalFileSet2 (jobId=5) starting
+2019-04-12 03:33:14.234 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: HW11 Contacts DB Analyzer analysis of LogicalFileSet2 (jobId=5) finished
+2019-04-12 03:33:14.234 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Run EXE Module analysis of LogicalFileSet2 (jobId=5) starting
+2019-04-12 03:33:14.238 RunExeIngestModule process
+INFO: Ignoring data source.  Not an image
+2019-04-12 03:33:14.238 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Run EXE Module analysis of LogicalFileSet2 (jobId=5) finished
+2019-04-12 03:33:14.238 org.sleuthkit.autopsy.ingest.DataSourceIngestJob finishFirstStage
+INFO: Finished first stage analysis for LogicalFileSet2 (jobId=6)
+2019-04-12 03:33:14.238 org.sleuthkit.autopsy.ingest.DataSourceIngestJob finish
+INFO: Finished analysis for LogicalFileSet2 (jobId=6)
+2019-04-12 03:33:14.245 org.sleuthkit.autopsy.ingest.IngestManager finishIngestJob
+INFO: Ingest job 6 completed
+2019-04-12 03:33:30.195 org.sleuthkit.autopsy.contentviewers.FileViewer isSupported
+INFO: Mimetype not known for file: contacts.db
+2019-04-12 03:33:33.779 org.sleuthkit.autopsy.contentviewers.FileViewer isSupported
+INFO: Mimetype not known for file: control.dd
+2019-04-12 03:33:38.212 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Correlation Engine, version = 4.10.0
+2019-04-12 03:33:38.212 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.10.0
+2019-04-12 03:33:38.212 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.10.0
+2019-04-12 03:33:38.212 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.10.0
+2019-04-12 03:33:38.212 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Exif Parser, version = 4.10.0
+2019-04-12 03:33:38.212 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.10.0
+2019-04-12 03:33:38.212 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.10.0
+2019-04-12 03:33:38.212 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.10.0
+2019-04-12 03:33:38.212 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.10.0
+2019-04-12 03:33:38.213 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2019-04-12 03:33:38.213 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.10.0
+2019-04-12 03:33:38.213 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.10.0
+2019-04-12 03:33:38.213 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.10.0
+2019-04-12 03:33:38.213 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.10.0
+2019-04-12 03:33:38.868 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.10.0
+2019-04-12 03:33:38.868 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Sample file ingest Module, version = 1.0
+2019-04-12 03:33:38.868 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and Round File Finder, version = 1.0
+2019-04-12 03:33:38.869 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and round file finder #2, version = 1.1
+2019-04-12 03:33:38.869 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = HW11 Contacts DB Analyzer, version = 1.0
+2019-04-12 03:33:38.869 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Run EXE Module, version = 1.0
+2019-04-12 03:33:42.393 org.sleuthkit.autopsy.ingest.DataSourceIngestJob start
+INFO: Starting first stage analysis for LogicalFileSet2 (jobId=7)
+2019-04-12 03:33:42.394 org.sleuthkit.autopsy.ingest.DataSourceIngestJob startFirstStage
+INFO: Scheduling first stage data source level analysis tasks for LogicalFileSet2 (jobId=7), no file level analysis configured
+2019-04-12 03:33:42.394 org.sleuthkit.autopsy.ingest.IngestManager startIngestJob
+INFO: Ingest job 7 started
+2019-04-12 03:33:42.401 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Run EXE Module analysis of LogicalFileSet2 (jobId=5) starting
+2019-04-12 03:33:42.413 RunExeIngestModule process
+INFO: Ignoring data source.  Not an image
+2019-04-12 03:33:42.413 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Run EXE Module analysis of LogicalFileSet2 (jobId=5) finished
+2019-04-12 03:33:42.413 org.sleuthkit.autopsy.ingest.DataSourceIngestJob finishFirstStage
+INFO: Finished first stage analysis for LogicalFileSet2 (jobId=7)
+2019-04-12 03:33:42.414 org.sleuthkit.autopsy.ingest.DataSourceIngestJob finish
+INFO: Finished analysis for LogicalFileSet2 (jobId=7)
+2019-04-12 03:33:42.422 org.sleuthkit.autopsy.ingest.IngestManager finishIngestJob
+INFO: Ingest job 7 completed
+2019-04-12 03:34:14.816 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Correlation Engine, version = 4.10.0
+2019-04-12 03:34:14.816 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.10.0
+2019-04-12 03:34:14.816 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.10.0
+2019-04-12 03:34:14.816 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.10.0
+2019-04-12 03:34:14.816 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Exif Parser, version = 4.10.0
+2019-04-12 03:34:14.816 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.10.0
+2019-04-12 03:34:14.816 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.10.0
+2019-04-12 03:34:14.816 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.10.0
+2019-04-12 03:34:14.816 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.10.0
+2019-04-12 03:34:14.816 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2019-04-12 03:34:14.817 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.10.0
+2019-04-12 03:34:14.817 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.10.0
+2019-04-12 03:34:14.817 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.10.0
+2019-04-12 03:34:14.817 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.10.0
+2019-04-12 03:34:15.508 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.10.0
+2019-04-12 03:34:15.509 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Sample file ingest Module, version = 1.0
+2019-04-12 03:34:15.509 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and Round File Finder, version = 1.0
+2019-04-12 03:34:15.509 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and round file finder #2, version = 1.1
+2019-04-12 03:34:15.509 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = HW11 Contacts DB Analyzer, version = 1.0
+2019-04-12 03:34:15.509 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Run EXE Module, version = 1.0
+2019-04-12 03:34:57.594 org.sleuthkit.autopsy.ingest.DataSourceIngestJob start
+INFO: Starting first stage analysis for control.dd (jobId=8)
+2019-04-12 03:34:57.594 org.sleuthkit.autopsy.ingest.DataSourceIngestJob startFirstStage
+INFO: Scheduling first stage data source level analysis tasks for control.dd (jobId=8), no file level analysis configured
+2019-04-12 03:34:57.594 org.sleuthkit.autopsy.ingest.IngestManager startIngestJob
+INFO: Ingest job 8 started
+2019-04-12 03:34:57.595 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Run EXE Module analysis of control.dd (jobId=7) starting
+2019-04-12 03:34:57.6 RunExeIngestModule process
+INFO: Running program on data source
+2019-04-12 03:34:57.996 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Run EXE Module analysis of control.dd (jobId=7) finished
+2019-04-12 03:34:57.996 org.sleuthkit.autopsy.ingest.DataSourceIngestJob finishFirstStage
+INFO: Finished first stage analysis for control.dd (jobId=8)
+2019-04-12 03:34:57.996 org.sleuthkit.autopsy.ingest.DataSourceIngestJob finish
+INFO: Finished analysis for control.dd (jobId=8)
+2019-04-12 03:34:58.003 org.sleuthkit.autopsy.ingest.IngestManager finishIngestJob
+INFO: Ingest job 8 completed
+2019-04-12 03:39:49.405 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Correlation Engine, version = 4.10.0
+2019-04-12 03:39:49.406 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.10.0
+2019-04-12 03:39:49.406 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.10.0
+2019-04-12 03:39:49.406 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.10.0
+2019-04-12 03:39:49.407 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Exif Parser, version = 4.10.0
+2019-04-12 03:39:49.407 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.10.0
+2019-04-12 03:39:49.407 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.10.0
+2019-04-12 03:39:49.407 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.10.0
+2019-04-12 03:39:49.408 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.10.0
+2019-04-12 03:39:49.408 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2019-04-12 03:39:49.408 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.10.0
+2019-04-12 03:39:49.408 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.10.0
+2019-04-12 03:39:49.408 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.10.0
+2019-04-12 03:39:49.409 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.10.0
+2019-04-12 03:39:50.078 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.10.0
+2019-04-12 03:39:50.078 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Sample file ingest Module, version = 1.0
+2019-04-12 03:39:50.079 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and Round File Finder, version = 1.0
+2019-04-12 03:39:50.079 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and round file finder #2, version = 1.1
+2019-04-12 03:39:50.079 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = HW11 Contacts DB Analyzer, version = 1.0
+2019-04-12 03:39:50.079 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Run EXE Module, version = 1.0
+2019-04-12 03:41:01.025 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Correlation Engine, version = 4.10.0
+2019-04-12 03:41:01.026 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.10.0
+2019-04-12 03:41:01.026 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.10.0
+2019-04-12 03:41:01.026 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.10.0
+2019-04-12 03:41:01.027 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Exif Parser, version = 4.10.0
+2019-04-12 03:41:01.027 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.10.0
+2019-04-12 03:41:01.027 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.10.0
+2019-04-12 03:41:01.027 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.10.0
+2019-04-12 03:41:01.027 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.10.0
+2019-04-12 03:41:01.028 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2019-04-12 03:41:01.028 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.10.0
+2019-04-12 03:41:01.028 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.10.0
+2019-04-12 03:41:01.028 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.10.0
+2019-04-12 03:41:01.029 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.10.0
+2019-04-12 03:41:01.722 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.10.0
+2019-04-12 03:41:01.722 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Sample file ingest Module, version = 1.0
+2019-04-12 03:41:01.722 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and Round File Finder, version = 1.0
+2019-04-12 03:41:01.722 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Big and round file finder #2, version = 1.1
+2019-04-12 03:41:01.722 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = HW11 Contacts DB Analyzer, version = 1.0
+2019-04-12 03:41:01.723 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = HW11 Run EXE Module, version = 1.0
+2019-04-12 03:41:01.723 org.sleuthkit.autopsy.ingest.IngestJobSettings load
+WARNING: Previously loaded Run EXE Module module could not be found.
+2019-04-12 03:45:36.606 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Stopping Solr server from: E:\Tools\Autopsy\autopsy\solr
+2019-04-12 03:45:36.606 org.sleuthkit.autopsy.keywordsearch.Server runSolrCommand
+INFO: Running Solr command: [E:\Tools\Autopsy\jre\bin\java, -Xmx512m, -DSTOP.PORT=34343, -Djetty.port=23232, -DSTOP.KEY=jjk#09s, -jar, start.jar, --stop]
+2019-04-12 03:45:36.614 org.sleuthkit.autopsy.keywordsearch.Server runSolrCommand
+INFO: Finished running Solr command
+2019-04-12 03:45:36.614 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Waiting for Solr server to stop
+2019-04-12 03:45:37.119 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Finished stopping Solr server
+2019-04-12 03:45:37.119 org.sleuthkit.autopsy.core.Installer <init>
+INFO: core installer created
+2019-04-12 03:45:37.128 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Shutting down image gallery controller for case Test (test_20190412_030814)
+2019-04-12 03:45:37.128 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
+INFO: Closing the drawable.db
+2019-04-12 03:45:37.13 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Completed shut down of image gallery controller for case Test (test_20190412_030814)
+2019-04-12 03:45:37.131 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+INFO: Closing current case Test (test_20190412_030814) in E:\GMU DFCA\CFRS 772\Projects\Homework 11\Test

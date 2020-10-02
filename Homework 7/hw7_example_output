@@ -1,0 +1,1470 @@
+-------------------- _EPROCESS Structures --------------------
+[+] Discovered alg.exe @ 0x16e6798
+	[\] PID: 1288
+	[\] PPID: 688
+
+[+] Discovered wscntfy.exe @ 0x1740da0
+	[\] PID: 500
+	[\] PPID: 1084
+
+[+] Discovered spoolsv.exe @ 0x1754020
+	[\] PID: 1600
+	[\] PPID: 688
+
+[+] Discovered explorer.exe @ 0x175fc68
+	[\] PID: 1532
+	[\] PPID: 1504
+
+[+] Discovered vmtoolsd.exe @ 0x17688c0
+	[\] PID: 1716
+	[\] PPID: 1532
+
+[+] Discovered svchost.exe @ 0x17733a0
+	[\] PID: 1272
+	[\] PPID: 688
+
+[+] Discovered lsass.exe @ 0x1955da0
+	[\] PID: 700
+	[\] PPID: 644
+
+[+] Discovered winlogon.exe @ 0x1957650
+	[\] PID: 644
+	[\] PPID: 548
+
+[+] Discovered svchost.exe @ 0x195b890
+	[\] PID: 1084
+	[\] PPID: 688
+
+[+] Discovered svchost.exe @ 0x1964550
+	[\] PID: 1160
+	[\] PPID: 688
+
+[+] Discovered vmacthlp.exe @ 0x1972800
+	[\] PID: 800
+	[\] PPID: 688
+
+[+] Discovered svchost.exe @ 0x1980da0
+	[\] PID: 884
+	[\] PPID: 688
+
+[+] Discovered svchost.exe @ 0x19a1990
+	[\] PID: 980
+	[\] PPID: 688
+
+[+] Discovered notepad.exe @ 0x19a5da0
+	[\] PID: 1488
+	[\] PPID: 1252
+
+[+] Discovered smss.exe @ 0x19af128
+	[\] PID: 548
+	[\] PPID: 4
+
+[+] Discovered wuauclt.exe @ 0x19cc020
+	[\] PID: 1328
+	[\] PPID: 1084
+
+[+] Discovered cmd.exe @ 0x1a08da0
+	[\] PID: 1252
+	[\] PPID: 1532
+
+[+] Discovered wuauclt.exe @ 0x1a24488
+	[\] PID: 1052
+	[\] PPID: 1084
+
+[+] Discovered vmtoolsd.exe @ 0x1a294b0
+	[\] PID: 2020
+	[\] PPID: 688
+
+[+] Discovered services.exe @ 0x1a8c9f8
+	[\] PID: 688
+	[\] PPID: 644
+
+[+] Discovered wmiprvse.exe @ 0x1aa2700
+	[\] PID: 1136
+	[\] PPID: 884
+
+[+] Discovered csrss.exe @ 0x1aaa020
+	[\] PID: 620
+	[\] PPID: 548
+
+[+] Discovered System @ 0x1bcc830
+	[\] PID: 4
+	[\] PPID: 0
+
+-------------------- _ETHREAD Structures --------------------
+[+] Discovered ETHREAD @ 0x1639020
+	[\] TID: 3584
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x1640020
+	[\] TID: 3164
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x169b680
+	[\] TID: 1996
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x169b930
+	[\] TID: 1120
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x169cda8
+	[\] TID: 1144
+	[\] PPID: 684
+
+[+] Discovered ETHREAD @ 0x169f020
+	[\] TID: 408
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x16a0b10
+	[\] TID: 288
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x16de2f8
+	[\] TID: 1580
+	[\] PPID: 1600
+
+[+] Discovered ETHREAD @ 0x16e02d8
+	[\] TID: 1464
+	[\] PPID: 1288
+
+[+] Discovered ETHREAD @ 0x16e0a60
+	[\] TID: 1744
+	[\] PPID: 1136
+
+[+] Discovered ETHREAD @ 0x16e13e0
+	[\] TID: 1348
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x16e2098
+	[\] TID: 1416
+	[\] PPID: 1288
+
+[+] Discovered ETHREAD @ 0x16e3720
+	[\] TID: 1388
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x16e4020
+	[\] TID: 1304
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x16e6020
+	[\] TID: 1312
+	[\] PPID: 1288
+
+[+] Discovered ETHREAD @ 0x16e7d60
+	[\] TID: 1228
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x16e8020
+	[\] TID: 1028
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x16e83c8
+	[\] TID: 1048
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x16e8640
+	[\] TID: 1044
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x16e88b8
+	[\] TID: 1040
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x16e8da8
+	[\] TID: 1032
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x16e9800
+	[\] TID: 1232
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x16ea020
+	[\] TID: 816
+	[\] PPID: 2020
+
+[+] Discovered ETHREAD @ 0x16ea3c8
+	[\] TID: 904
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x16ea640
+	[\] TID: 900
+	[\] PPID: 2020
+
+[+] Discovered ETHREAD @ 0x16eab30
+	[\] TID: 736
+	[\] PPID: 2020
+
+[+] Discovered ETHREAD @ 0x16eb4b0
+	[\] TID: 1980
+	[\] PPID: 1716
+
+[+] Discovered ETHREAD @ 0x16edb80
+	[\] TID: 768
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x16ee8b8
+	[\] TID: 172
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x16eeb40
+	[\] TID: 1840
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x16f07b8
+	[\] TID: 588
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x16f1020
+	[\] TID: 624
+	[\] PPID: 1600
+
+[+] Discovered ETHREAD @ 0x16f1760
+	[\] TID: 592
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x16f3388
+	[\] TID: 508
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x16f3a40
+	[\] TID: 492
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x16f4020
+	[\] TID: 468
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x16f4478
+	[\] TID: 484
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x16f4968
+	[\] TID: 476
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x16f5da8
+	[\] TID: 1300
+	[\] PPID: 1288
+
+[+] Discovered ETHREAD @ 0x170d368
+	[\] TID: 1184
+	[\] PPID: 1252
+
+[+] Discovered ETHREAD @ 0x1711918
+	[\] TID: 1928
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x1713b78
+	[\] TID: 1360
+	[\] PPID: 1328
+
+[+] Discovered ETHREAD @ 0x1714220
+	[\] TID: 988
+	[\] PPID: 1136
+
+[+] Discovered ETHREAD @ 0x1715020
+	[\] TID: 1992
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x17153c8
+	[\] TID: 1380
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1715da8
+	[\] TID: 944
+	[\] PPID: 1600
+
+[+] Discovered ETHREAD @ 0x1716100
+	[\] TID: 1668
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1716cb8
+	[\] TID: 1660
+	[\] PPID: 1600
+
+[+] Discovered ETHREAD @ 0x1717630
+	[\] TID: 1452
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x17178c8
+	[\] TID: 216
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1719c30
+	[\] TID: 1424
+	[\] PPID: 1288
+
+[+] Discovered ETHREAD @ 0x171a7a8
+	[\] TID: 1392
+	[\] PPID: 1600
+
+[+] Discovered ETHREAD @ 0x171ace0
+	[\] TID: 1372
+	[\] PPID: 1288
+
+[+] Discovered ETHREAD @ 0x171b6c8
+	[\] TID: 1320
+	[\] PPID: 1288
+
+[+] Discovered ETHREAD @ 0x171f020
+	[\] TID: 1352
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1722020
+	[\] TID: 136
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x17223c8
+	[\] TID: 1024
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1722640
+	[\] TID: 936
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x17228b8
+	[\] TID: 892
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1722b30
+	[\] TID: 916
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1723248
+	[\] TID: 1476
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1724b30
+	[\] TID: 1340
+	[\] PPID: 1328
+
+[+] Discovered ETHREAD @ 0x1726470
+	[\] TID: 1740
+	[\] PPID: 1136
+
+[+] Discovered ETHREAD @ 0x17278a0
+	[\] TID: 348
+	[\] PPID: 1600
+
+[+] Discovered ETHREAD @ 0x1729020
+	[\] TID: 596
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1729888
+	[\] TID: 616
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1729b30
+	[\] TID: 608
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1729da8
+	[\] TID: 600
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x172b4a0
+	[\] TID: 1368
+	[\] PPID: 1328
+
+[+] Discovered ETHREAD @ 0x172b7d0
+	[\] TID: 1196
+	[\] PPID: 1136
+
+[+] Discovered ETHREAD @ 0x172d6b8
+	[\] TID: 128
+	[\] PPID: 2020
+
+[+] Discovered ETHREAD @ 0x172d948
+	[\] TID: 1056
+	[\] PPID: 1052
+
+[+] Discovered ETHREAD @ 0x1730c18
+	[\] TID: 488
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x1731020
+	[\] TID: 452
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x17315c0
+	[\] TID: 464
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x1731b30
+	[\] TID: 460
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x1731da8
+	[\] TID: 456
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x1737da8
+	[\] TID: 316
+	[\] PPID: 1160
+
+[+] Discovered ETHREAD @ 0x1739020
+	[\] TID: 668
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1739b30
+	[\] TID: 960
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1742768
+	[\] TID: 504
+	[\] PPID: 500
+
+[+] Discovered ETHREAD @ 0x1743b70
+	[\] TID: 1208
+	[\] PPID: 980
+
+[+] Discovered ETHREAD @ 0x17450b0
+	[\] TID: 972
+	[\] PPID: 980
+
+[+] Discovered ETHREAD @ 0x1745638
+	[\] TID: 512
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x17465f0
+	[\] TID: 440
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x174b830
+	[\] TID: 1848
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x174d020
+	[\] TID: 1656
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x174e7a0
+	[\] TID: 560
+	[\] PPID: 596
+
+[+] Discovered ETHREAD @ 0x174eda8
+	[\] TID: 556
+	[\] PPID: 840
+
+[+] Discovered ETHREAD @ 0x1750020
+	[\] TID: 1644
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1751020
+	[\] TID: 1880
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x17515d8
+	[\] TID: 1636
+	[\] PPID: 1600
+
+[+] Discovered ETHREAD @ 0x1751da8
+	[\] TID: 1624
+	[\] PPID: 1600
+
+[+] Discovered ETHREAD @ 0x17522e8
+	[\] TID: 1620
+	[\] PPID: 1600
+
+[+] Discovered ETHREAD @ 0x1752bb8
+	[\] TID: 1616
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1753918
+	[\] TID: 1612
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1754398
+	[\] TID: 1608
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1754d88
+	[\] TID: 1604
+	[\] PPID: 1600
+
+[+] Discovered ETHREAD @ 0x1755020
+	[\] TID: 1584
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1755848
+	[\] TID: 1596
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1755b30
+	[\] TID: 1592
+	[\] PPID: 980
+
+[+] Discovered ETHREAD @ 0x1755da8
+	[\] TID: 1588
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1756020
+	[\] TID: 1568
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1756b30
+	[\] TID: 1576
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1756da8
+	[\] TID: 1572
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x17595c0
+	[\] TID: 1564
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1759cf0
+	[\] TID: 1560
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x175a250
+	[\] TID: 1540
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x175b330
+	[\] TID: 1404
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x175e020
+	[\] TID: 1684
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x175e380
+	[\] TID: 1552
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x175ece8
+	[\] TID: 1548
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x175f020
+	[\] TID: 1528
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x175f9f0
+	[\] TID: 1536
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x1760020
+	[\] TID: 1140
+	[\] PPID: 1052
+
+[+] Discovered ETHREAD @ 0x1761020
+	[\] TID: 1068
+	[\] PPID: 1052
+
+[+] Discovered ETHREAD @ 0x17613f0
+	[\] TID: 1104
+	[\] PPID: 1052
+
+[+] Discovered ETHREAD @ 0x1761668
+	[\] TID: 1076
+	[\] PPID: 1052
+
+[+] Discovered ETHREAD @ 0x17618e0
+	[\] TID: 1072
+	[\] PPID: 1052
+
+[+] Discovered ETHREAD @ 0x1762020
+	[\] TID: 1520
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1762be8
+	[\] TID: 1524
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1764628
+	[\] TID: 1456
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1768020
+	[\] TID: 1460
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1768648
+	[\] TID: 2004
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x176d5b8
+	[\] TID: 1324
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x176da58
+	[\] TID: 1308
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x176fa78
+	[\] TID: 1248
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1770d70
+	[\] TID: 1292
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x1771020
+	[\] TID: 1284
+	[\] PPID: 1160
+
+[+] Discovered ETHREAD @ 0x1772020
+	[\] TID: 1260
+	[\] PPID: 1160
+
+[+] Discovered ETHREAD @ 0x1772730
+	[\] TID: 1276
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x1772b30
+	[\] TID: 1268
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1772da8
+	[\] TID: 1264
+	[\] PPID: 1160
+
+[+] Discovered ETHREAD @ 0x1773620
+	[\] TID: 1256
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x178f020
+	[\] TID: 1716
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x178f788
+	[\] TID: 1464
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x1792020
+	[\] TID: 1472
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x17948c0
+	[\] TID: 3744
+	[\] PPID: 672
+
+[+] Discovered ETHREAD @ 0x1794da8
+	[\] TID: 1400
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x1795880
+	[\] TID: 1388
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x1796090
+	[\] TID: 1856
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x1798308
+	[\] TID: 1740
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x17a1c98
+	[\] TID: 3484
+	[\] PPID: 840
+
+[+] Discovered ETHREAD @ 0x17f4160
+	[\] TID: 3208
+	[\] PPID: 3192
+
+[+] Discovered ETHREAD @ 0x17f53c8
+	[\] TID: 1876
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x17f5640
+	[\] TID: 1852
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x17f58b8
+	[\] TID: 1576
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x17f6da8
+	[\] TID: 1760
+	[\] PPID: 1016
+
+[+] Discovered ETHREAD @ 0x17f8218
+	[\] TID: 1188
+	[\] PPID: 1056
+
+[+] Discovered ETHREAD @ 0x17f9b30
+	[\] TID: 1064
+	[\] PPID: 672
+
+[+] Discovered ETHREAD @ 0x17faa10
+	[\] TID: 3200
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x17fbcb0
+	[\] TID: 1276
+	[\] PPID: 1112
+
+[+] Discovered ETHREAD @ 0x1937020
+	[\] TID: 628
+	[\] PPID: 596
+
+[+] Discovered ETHREAD @ 0x193f2c8
+	[\] TID: 744
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1944020
+	[\] TID: 404
+	[\] PPID: 980
+
+[+] Discovered ETHREAD @ 0x19442c8
+	[\] TID: 752
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1946020
+	[\] TID: 164
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1953020
+	[\] TID: 724
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x19532c8
+	[\] TID: 728
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x19553d8
+	[\] TID: 656
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x19557f8
+	[\] TID: 648
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x1956da8
+	[\] TID: 696
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x1957a90
+	[\] TID: 652
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x1958aa8
+	[\] TID: 660
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x195b530
+	[\] TID: 1088
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x195bd78
+	[\] TID: 1080
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x195c238
+	[\] TID: 1108
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x195cb30
+	[\] TID: 1100
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x195cda8
+	[\] TID: 1096
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x195d4a8
+	[\] TID: 1092
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1961460
+	[\] TID: 676
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x1961b18
+	[\] TID: 672
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x1962460
+	[\] TID: 684
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x1962888
+	[\] TID: 680
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x1963020
+	[\] TID: 1192
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x19642a8
+	[\] TID: 1164
+	[\] PPID: 1160
+
+[+] Discovered ETHREAD @ 0x1964908
+	[\] TID: 1156
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1964da8
+	[\] TID: 304
+	[\] PPID: 1136
+
+[+] Discovered ETHREAD @ 0x1965818
+	[\] TID: 1020
+	[\] PPID: 980
+
+[+] Discovered ETHREAD @ 0x1965da8
+	[\] TID: 872
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x1967130
+	[\] TID: 264
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1967418
+	[\] TID: 868
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x196b228
+	[\] TID: 640
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x196b4c0
+	[\] TID: 812
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x196cab0
+	[\] TID: 1128
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x19707f8
+	[\] TID: 836
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1971230
+	[\] TID: 832
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1971660
+	[\] TID: 840
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1971a98
+	[\] TID: 860
+	[\] PPID: 856
+
+[+] Discovered ETHREAD @ 0x1973670
+	[\] TID: 848
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1973a98
+	[\] TID: 844
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1974250
+	[\] TID: 1188
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1976020
+	[\] TID: 292
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1976710
+	[\] TID: 864
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x197d020
+	[\] TID: 300
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x197e670
+	[\] TID: 996
+	[\] PPID: 980
+
+[+] Discovered ETHREAD @ 0x19897f8
+	[\] TID: 964
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x198a020
+	[\] TID: 632
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x198a560
+	[\] TID: 1692
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x198ada8
+	[\] TID: 888
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x198b230
+	[\] TID: 928
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x198f230
+	[\] TID: 940
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1990130
+	[\] TID: 628
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x19913c8
+	[\] TID: 932
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x1994020
+	[\] TID: 356
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1994570
+	[\] TID: 984
+	[\] PPID: 980
+
+[+] Discovered ETHREAD @ 0x1994988
+	[\] TID: 920
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x1998020
+	[\] TID: 524
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x199c7f0
+	[\] TID: 896
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x199d020
+	[\] TID: 528
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x19a33c8
+	[\] TID: 1004
+	[\] PPID: 980
+
+[+] Discovered ETHREAD @ 0x19a3800
+	[\] TID: 1008
+	[\] PPID: 980
+
+[+] Discovered ETHREAD @ 0x19a3c18
+	[\] TID: 1000
+	[\] PPID: 980
+
+[+] Discovered ETHREAD @ 0x19a4020
+	[\] TID: 520
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x19a5020
+	[\] TID: 532
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x19a5998
+	[\] TID: 1124
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x19a6020
+	[\] TID: 536
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x19a87f0
+	[\] TID: 1872
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x19aa020
+	[\] TID: 540
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x19ab240
+	[\] TID: 1408
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x19aba80
+	[\] TID: 1400
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x19ad020
+	[\] TID: 544
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x19b07f8
+	[\] TID: 1376
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x19b1020
+	[\] TID: 552
+	[\] PPID: 548
+
+[+] Discovered ETHREAD @ 0x19b53e0
+	[\] TID: 1412
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x19b63d8
+	[\] TID: 1468
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x19b7020
+	[\] TID: 556
+	[\] PPID: 548
+
+[+] Discovered ETHREAD @ 0x19ba020
+	[\] TID: 560
+	[\] PPID: 548
+
+[+] Discovered ETHREAD @ 0x19bb2d0
+	[\] TID: 1720
+	[\] PPID: 1716
+
+[+] Discovered ETHREAD @ 0x19bd8e8
+	[\] TID: 1868
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x19be5b8
+	[\] TID: 1812
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x19cb520
+	[\] TID: 1060
+	[\] PPID: 1052
+
+[+] Discovered ETHREAD @ 0x19cc640
+	[\] TID: 824
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x19cc8b8
+	[\] TID: 704
+	[\] PPID: 2020
+
+[+] Discovered ETHREAD @ 0x19f3988
+	[\] TID: 256
+	[\] PPID: 2020
+
+[+] Discovered ETHREAD @ 0x1a006b0
+	[\] TID: 496
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a01da8
+	[\] TID: 224
+	[\] PPID: 1716
+
+[+] Discovered ETHREAD @ 0x1a03da8
+	[\] TID: 244
+	[\] PPID: 1716
+
+[+] Discovered ETHREAD @ 0x1a04600
+	[\] TID: 248
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x1a06490
+	[\] TID: 240
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a0ba80
+	[\] TID: 232
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1a0e188
+	[\] TID: 156
+	[\] PPID: 980
+
+[+] Discovered ETHREAD @ 0x1a0e600
+	[\] TID: 228
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1a0f418
+	[\] TID: 1224
+	[\] PPID: 1328
+
+[+] Discovered ETHREAD @ 0x1a117f0
+	[\] TID: 120
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a12da8
+	[\] TID: 636
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x1a13da8
+	[\] TID: 1916
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a15510
+	[\] TID: 432
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x1a165d8
+	[\] TID: 1876
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a16a50
+	[\] TID: 1892
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a175d8
+	[\] TID: 1932
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a17a50
+	[\] TID: 1900
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a185d8
+	[\] TID: 1904
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x1a18a50
+	[\] TID: 1908
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x1a19348
+	[\] TID: 1912
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x1a19c18
+	[\] TID: 260
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a1a508
+	[\] TID: 1888
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a1ada8
+	[\] TID: 1884
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a1c5c0
+	[\] TID: 1144
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a1d658
+	[\] TID: 284
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a1da80
+	[\] TID: 276
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a234e0
+	[\] TID: 1944
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a24908
+	[\] TID: 1996
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a24d80
+	[\] TID: 1924
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a25160
+	[\] TID: 272
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a255d8
+	[\] TID: 1984
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a25a50
+	[\] TID: 1964
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1a267f0
+	[\] TID: 288
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a28748
+	[\] TID: 372
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a29930
+	[\] TID: 2012
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a2a160
+	[\] TID: 2024
+	[\] PPID: 2020
+
+[+] Discovered ETHREAD @ 0x1a2a5d8
+	[\] TID: 1952
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a2aa50
+	[\] TID: 1492
+	[\] PPID: 1488
+
+[+] Discovered ETHREAD @ 0x1a2f8c0
+	[\] TID: 448
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a34da8
+	[\] TID: 1860
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a37988
+	[\] TID: 236
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1a3bda8
+	[\] TID: 392
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a3d368
+	[\] TID: 1852
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x1a3d638
+	[\] TID: 428
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x1a3f658
+	[\] TID: 1864
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x1a42da8
+	[\] TID: 1736
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1a43230
+	[\] TID: 1808
+	[\] PPID: 644
+
+[+] Discovered ETHREAD @ 0x1a43a80
+	[\] TID: 1760
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x1a47da8
+	[\] TID: 1768
+	[\] PPID: 1136
+
+[+] Discovered ETHREAD @ 0x1a565b0
+	[\] TID: 1896
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x1a56a28
+	[\] TID: 1940
+	[\] PPID: 1716
+
+[+] Discovered ETHREAD @ 0x1a5aa28
+	[\] TID: 412
+	[\] PPID: 884
+
+[+] Discovered ETHREAD @ 0x1a5b840
+	[\] TID: 1976
+	[\] PPID: 1716
+
+[+] Discovered ETHREAD @ 0x1a5f748
+	[\] TID: 1680
+	[\] PPID: 1136
+
+[+] Discovered ETHREAD @ 0x1a64da8
+	[\] TID: 140
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a66b30
+	[\] TID: 800
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1a66da8
+	[\] TID: 796
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1a68640
+	[\] TID: 804
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1a68da8
+	[\] TID: 764
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1a6a0d0
+	[\] TID: 160
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a6e100
+	[\] TID: 720
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1a6e378
+	[\] TID: 716
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1a6ecf0
+	[\] TID: 144
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a729d0
+	[\] TID: 760
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1a73650
+	[\] TID: 776
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1a738c8
+	[\] TID: 772
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1a8ada8
+	[\] TID: 348
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a8c678
+	[\] TID: 828
+	[\] PPID: 688
+
+[+] Discovered ETHREAD @ 0x1a8d9e8
+	[\] TID: 124
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a96d18
+	[\] TID: 152
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1a9dc40
+	[\] TID: 148
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1aaa9f8
+	[\] TID: 784
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1aaac70
+	[\] TID: 780
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1ab61c8
+	[\] TID: 712
+	[\] PPID: 700
+
+[+] Discovered ETHREAD @ 0x1ab6440
+	[\] TID: 708
+	[\] PPID: 620
+
+[+] Discovered ETHREAD @ 0x1acf4a0
+	[\] TID: 408
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1ad1560
+	[\] TID: 1764
+	[\] PPID: 1532
+
+[+] Discovered ETHREAD @ 0x1ad3958
+	[\] TID: 196
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1ad5958
+	[\] TID: 1200
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x1ad6958
+	[\] TID: 1016
+	[\] PPID: 1272
+
+[+] Discovered ETHREAD @ 0x1ad6da8
+	[\] TID: 1776
+	[\] PPID: 1052
+
+[+] Discovered ETHREAD @ 0x1ad7628
+	[\] TID: 1132
+	[\] PPID: 1084
+
+[+] Discovered ETHREAD @ 0x1b90698
+	[\] TID: 112
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1b96da8
+	[\] TID: 116
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1ba0628
+	[\] TID: 100
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bc5020
+	[\] TID: 76
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bc5b30
+	[\] TID: 84
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bc5da8
+	[\] TID: 80
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bc82c8
+	[\] TID: 72
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bc9020
+	[\] TID: 60
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bc9b30
+	[\] TID: 68
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bc9da8
+	[\] TID: 64
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bca020
+	[\] TID: 36
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bca3c8
+	[\] TID: 56
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bca640
+	[\] TID: 52
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bca8b8
+	[\] TID: 48
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bcab30
+	[\] TID: 44
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bcada8
+	[\] TID: 40
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bcb3c8
+	[\] TID: 32
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bcb640
+	[\] TID: 28
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bcb8b8
+	[\] TID: 24
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bcbb30
+	[\] TID: 20
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bcbda8
+	[\] TID: 16
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bcc5b8
+	[\] TID: 8
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bdd1f8
+	[\] TID: 108
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bdd890
+	[\] TID: 104
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bea5c0
+	[\] TID: 96
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bf0020
+	[\] TID: 88
+	[\] PPID: 4
+
+[+] Discovered ETHREAD @ 0x1bf0da8
+	[\] TID: 92
+	[\] PPID: 4
+

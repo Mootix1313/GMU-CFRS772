@@ -1,0 +1,5 @@
+IMAGE FILE INFORMATION
+--------------------------------------------
+Image Type: raw
+
+Size in bytes: 131625645

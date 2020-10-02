@@ -1,0 +1,17 @@
+-------------------- HW10:  rgully4's File Matching Script --------------------
+[\] 20 files tested. Results: 
+
+[\] 5 screenshots detected. 
+
+	 ['./clean_files\\9', './clean_files\\10', './clean_files\\11', './clean_files\\12', './clean_files\\13']
+
+[\] 1 process monitors detected. 
+
+	 ['./clean_files\\7']
+
+[\] 1 key logs detected. 
+
+	 ['./clean_files\\3']
+
+[\] 13 of everything else... 
+

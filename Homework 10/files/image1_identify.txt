@@ -1,0 +1,83 @@
+Image: ./1.bmp
+  Format: BMP3 (Microsoft Windows bitmap image (V3))
+  Class: DirectClass
+  Geometry: 1024x768+0+0
+  Resolution: 118.08x118.08
+  Print size: 8.67209x6.50407
+  Units: PixelsPerCentimeter
+  Type: TrueColor
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 786432
+    Red:
+      min: 6 (0.0235294)
+      max: 251 (0.984314)
+      mean: 41.975 (0.164608)
+      standard deviation: 40.4412 (0.158593)
+      kurtosis: 4.85887
+      skewness: 2.26317
+      entropy: 0.792111
+    Green:
+      min: 39 (0.152941)
+      max: 255 (1)
+      mean: 106.263 (0.416718)
+      standard deviation: 50.5446 (0.198214)
+      kurtosis: 0.519909
+      skewness: 1.22514
+      entropy: 0.928685
+    Blue:
+      min: 83 (0.32549)
+      max: 255 (1)
+      mean: 178.715 (0.700844)
+      standard deviation: 39.3159 (0.15418)
+      kurtosis: -0.660872
+      skewness: -0.0713226
+      entropy: 0.96935
+  Image statistics:
+    Overall:
+      min: 6 (0.0235294)
+      max: 255 (1)
+      mean: 108.984 (0.42739)
+      standard deviation: 43.7264 (0.171476)
+      kurtosis: 9.72961
+      skewness: 1.2576
+      entropy: 0.896716
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1024x768+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: None
+  Orientation: Undefined
+  Properties:
+    date:create: 2009-06-10T17:45:12+00:00
+    date:modify: 2009-06-10T17:45:12+00:00
+    signature: b1abb4b6cc1ac8cec22e1d4b1875c123c4158c29a05c93bb2e239e47cc4181f3
+  Artifacts:
+    filename: ./1.bmp
+    verbose: true
+  Tainted: False
+  Filesize: 2.359MB
+  Number pixels: 786K
+  Pixels per second: 39.32MB
+  User time: 0.030u
+  Elapsed time: 0:01.019
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org

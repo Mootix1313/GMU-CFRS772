@@ -1,0 +1,23 @@
+./1: PC bitmap, Windows 3.x format, 1024 x 768 x 24
+./10: PC bitmap, Windows 3.x format, 1280 x 1024 x 32
+./11: PC bitmap, Windows 3.x format, 1280 x 1024 x 32
+./12: PC bitmap, Windows 3.x format, 1280 x 1024 x 32
+./13: PC bitmap, Windows 3.x format, 1280 x 1024 x 32
+./14: PE32 executable (console) Intel 80386, for MS Windows
+./15: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 128x128, frames 3
+./16: PC bitmap, Windows 3.x format, 134 x 38 x 4
+./17: PC bitmap, Windows 3.x format, 32 x 32 x 32
+./18: PC bitmap, Windows 3.x format, 32 x 32 x 32
+./19: PNG image data, 1406 x 660, 8-bit/color RGBA, non-interlaced
+./2: PC bitmap, Windows 3.x format, 171 x 36 x 24
+./20: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 171x295, frames 3
+./3: data
+./4: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
+./5: ASCII text, with CRLF line terminators
+./6: UTF-8 Unicode text, with CRLF line terminators
+./7: C source, ASCII text, with very long lines, with CRLF line terminators
+./8: ASCII text, with CRLF line terminators
+./9: PC bitmap, Windows 3.x format, 1280 x 1024 x 32
+./hw_ten_answers: ASCII text
+./__pycache__: directory
+./text_or_bin.py: ASCII text, with CRLF line terminators

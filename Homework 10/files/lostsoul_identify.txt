@@ -1,0 +1,83 @@
+Image: ./lostsoul.bmp
+  Format: BMP3 (Microsoft Windows bitmap image (V3))
+  Class: DirectClass
+  Geometry: 1024x768+0+0
+  Resolution: 28.35x28.35
+  Print size: 36.1199x27.0899
+  Units: PixelsPerCentimeter
+  Type: TrueColor
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 786432
+    Red:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 74.173 (0.290874)
+      standard deviation: 69.2773 (0.271676)
+      kurtosis: -0.156309
+      skewness: 0.963087
+      entropy: 0.929848
+    Green:
+      min: 0 (0)
+      max: 248 (0.972549)
+      mean: 34.6091 (0.135722)
+      standard deviation: 48.3023 (0.189421)
+      kurtosis: 3.71333
+      skewness: 2.03531
+      entropy: 0.784523
+    Blue:
+      min: 0 (0)
+      max: 230 (0.901961)
+      mean: 9.90296 (0.0388351)
+      standard deviation: 27.8013 (0.109025)
+      kurtosis: 23.408
+      skewness: 4.67107
+      entropy: 0.498331
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 39.5617 (0.155144)
+      standard deviation: 51.3335 (0.201308)
+      kurtosis: 5.96852
+      skewness: 2.61232
+      entropy: 0.737567
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1024x768+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: None
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-04-07T05:51:46+00:00
+    date:modify: 2019-04-07T05:51:46+00:00
+    signature: a41e4672595a679e94236090e21d3f2bf0e96de8c01d9e568b704f8c3dbbc24d
+  Artifacts:
+    filename: ./lostsoul.bmp
+    verbose: true
+  Tainted: False
+  Filesize: 2.359MB
+  Number pixels: 786K
+  Pixels per second: 26.21MB
+  User time: 0.010u
+  Elapsed time: 0:01.029
+  Version: ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
