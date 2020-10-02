@@ -1,4 +1,4 @@
-# George Mason University - Master's in Digital Forensics and Cyber Analysis
+# George Mason University - Digital Forensics and Cyber Analysis (MS)
 
 This repository contains each project submission for my Python Forensics Course (DFCA 772) at [George Mason University][1]. I was a student in DFCA 772 in the spring of 2019.
 
